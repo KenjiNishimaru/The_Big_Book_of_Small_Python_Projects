@@ -3,4 +3,6 @@
 
 It's been a long time since I last programmed in Python, so I decided to practice syntax by reading this book.
 
+Project 1 - Bagels (Guessing Game - 3 digits)
+
 Free book available in: https://inventwithpython.com/bigbookpython/
