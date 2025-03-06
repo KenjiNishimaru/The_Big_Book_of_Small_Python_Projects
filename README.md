@@ -4,7 +4,9 @@
 It's been a long time since I last programmed in Python, so I decided to practice syntax by reading this book.
 
 Project 1 - Bagels (Guessing Game - 3 digits)
+
 Project 2 - Birthdays (Calculating % of 2 people make birthday at the same day)
+
 Project 3 - Bitmap (printing world map with strings)
 
 Free book available in: https://inventwithpython.com/bigbookpython/
