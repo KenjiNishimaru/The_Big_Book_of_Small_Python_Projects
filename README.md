@@ -16,6 +16,8 @@ Project 3 - Bitmap (printing world map with strings)
 
 Project 4 - Blackjack 
 
+Project 6 - Caesar Cipher (simple problem to shift letters by a certain quantity)
+
 Free book available in: https://inventwithpython.com/bigbookpython/
 
 
