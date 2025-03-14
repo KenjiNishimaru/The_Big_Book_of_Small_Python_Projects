@@ -18,6 +18,8 @@ Project 4 - Blackjack
 
 Project 6 - Caesar Cipher (simple problem to shift letters by a certain quantity)
 
+Project 7 - Caesar Hacker (shift all posibilities to decode a message)
+
 Free book available in: https://inventwithpython.com/bigbookpython/
 
 
