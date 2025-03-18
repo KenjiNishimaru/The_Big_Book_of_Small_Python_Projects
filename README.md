@@ -1,5 +1,5 @@
 # The_Big_Book_of_Small_Python_Projects
-81 easy practice programs
+81 practice programs
 
 It's been a long time since I last programmed in Python, so I decided to practice syntax by reading this book.
 
@@ -17,6 +17,8 @@ Project 3 - Bitmap (printing world map with strings)
 Project 4 - Blackjack 
 
 Project 6 - Caesar Cipher (simple problem to shift letters by a certain quantity)
+
+Project 7 - Caesar Hacker (shift all posibilities to decode a message)
 
 Free book available in: https://inventwithpython.com/bigbookpython/
 
