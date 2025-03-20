@@ -24,6 +24,8 @@ Project 8 - Calendar Maker (choose a month and year, it will be displayed in the
 
 Project 10 - Chohan (old japanese gambling game)
 
+Project 12 - Collatz Sequence (open math problem)
+
 Free book available in: https://inventwithpython.com/bigbookpython/
 
 
